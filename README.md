@@ -1,3 +1,3 @@
-# PercentageSuicide
+# Percentage Suicide
 
-This is where she makes a mod.
+This is a mod for anyone who wants to kill themselves when they reach a point in a GD level.
