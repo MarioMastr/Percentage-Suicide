@@ -1,0 +1,25 @@
+{
+	"geode": "2.0.0-beta.20",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "mariomastr.percentage_suicide",
+	"name": "Percentage Suicide",
+	"developer": "MarioMastr",
+	"description": "Causes you to die (or straight respawn) as soon as you pass a certain percentage, for practicing reasons ig idk", 
+	"settings": {
+		"straightUpDie": {
+			"name": "Die, not respawn",
+			"description": "You wanna witness your player character get brutally murdered instead of painlessly respawn him at the start? Then this option is for you!",
+			"type": "bool",
+			"default": false
+		},
+		"percentage": {
+			"name": "Percentage Value you want to die at",
+			"description": "I recommend this setting be changed otherwise you'd just die at 0% all the time and that's no fun.",
+			"type": "int",
+			"default": 0,
+			"min": 0,
+			"max": 100
+		}
+	}
+}
